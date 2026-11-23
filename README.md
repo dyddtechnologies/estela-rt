@@ -244,7 +244,7 @@ Yes. It is MIT-licensed: free to use, modify and ship, including commercially.
 
 <details><summary><b>Where is the full reference?</b></summary>
 
-In the [ESTELA source repository](https://github.com/dyddtechnologies/estela#readme): privacy, sagas, care policies, gRPC command entry, outbound request/reply and more.
+The package ships its type declarations, so your editor documents every option of `forRoot`, the flow DSL, adapters, sagas, privacy and care policies. Each [release](https://github.com/dyddtechnologies/estela-rt/releases) lists what changed. For anything else, [open an issue](https://github.com/dyddtechnologies/estela-rt/issues).
 </details>
 
 ## 💬 Support

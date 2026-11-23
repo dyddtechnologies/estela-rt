@@ -244,7 +244,7 @@ Sí. Tiene licencia MIT: es gratis para usar, modificar y distribuir, también c
 
 <details><summary><b>¿Dónde está la referencia completa?</b></summary>
 
-En el [repositorio de ESTELA](https://github.com/dyddtechnologies/estela#readme): privacidad, sagas, políticas de cuidado, entrada gRPC de comandos, salida request/reply y más.
+El paquete trae sus declaraciones de tipos, así que tu editor documenta cada opción de `forRoot`, el DSL de flujos, los adaptadores, las sagas, la privacidad y las políticas de cuidado. Cada [release](https://github.com/dyddtechnologies/estela-rt/releases) lista lo que cambió. Para lo demás, [abre un issue](https://github.com/dyddtechnologies/estela-rt/issues).
 </details>
 
 ## 💬 Soporte
